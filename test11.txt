@@ -1,3 +1,5 @@
 tel 12345
 push-1
 pull master
+
+ssh sssh
